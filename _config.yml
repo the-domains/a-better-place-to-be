@@ -1,7 +1,7 @@
 name: a better place to be
 favicon: null
-layout_spectrum: 0.5564132186118513
-typography_spectrum: 0.1232275574002415
+layout_spectrum: 0.57095
+typography_spectrum: 0.46323
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7145148196723312
-  lightness: 0.6141655019018799
-  saturation: 0.3391128149814904
-  rhythmicContrast: 0.34622028446756303
+    - '#ffffff'
+    - '#004871'
+    - '#009ace'
+    - '#6dc5e4'
+    - '#437596'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
